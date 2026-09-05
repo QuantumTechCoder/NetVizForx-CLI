@@ -1,0 +1,6 @@
+textual==0.74.0
+rich==13.9.4
+requests==2.32.3
+dnspython==2.7.0
+python-whois==0.9.4
+pyfiglet==1.0.2
